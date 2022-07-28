@@ -7,9 +7,9 @@ ________________________________________________________________________________
 2.	To run Jupyter Notebook, open your command prompt and type in the following code: 
      `jupyter notebook`
 
-3.	Download the following Jupyter Notebook file ‘Retirement Savings Interest Generator - LM.ipynb’ from Github site: [Linear-Regression/Retirement Savings Interest Generator - LM.ipynb at main · Irish-grl/Linear-Regression (github.com)]  and press the ‘Go to File’ button.
+3.	Download the following Jupyter Notebook file ‘Retirement Savings Interest Generator - LM.ipynb’ from Github site: Linear-Regression/Retirement Savings Interest Generator - LM.ipynb at main  and press the ‘Go to File’ button.
 
-4.	Download the following dependency CSV file named ‘2022_pers_QBE.csv’ from Github site: [Linear-Regr.ession/2022 pers QBE.csv at main · Irish-grl/Linear-Regression (github.com)] and press the ‘Go to File’ button. Note the pathway where you are saving the file, as you will need to update the file pathway in the code in cell #1 to match the file pathway of the location where you saved this file.
+4.	Download the following dependency CSV file named ‘2022_pers_QBE.csv’ from Github site: Linear-Regr.ession/2022 pers QBE.csv at main and press the ‘Go to File’ button. Note the pathway where you are saving the file, as you will need to update the file pathway in the code in cell #1 to match the file pathway of the location where you saved this file.
 
 5.	After setting the file pathway for the ‘2022_pers_QBE.csv’ file in cell #1 in the Retirement Savings Interest Generator – LM.ipynb file, click the ‘Run’ button for each cell in the file until you have clicked ‘Run’ for all of the cells.
 
