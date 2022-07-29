@@ -12,6 +12,8 @@ ________________________________________________________________________________
 
 5.   The estimated amount you should put away for retirement each year will populate on the web application page.
 
+6.   The 'main.py' file is not required to run the Retirement Savings Interest Generator Tool, but is added for clarity on how the random ages were generated that were        added to the data set. It can be viewed on Github and on Binder.org.
+
 ## Important notes:
 
 If you close out of the web application's browser page and try to re-run the program again without completely shutting down, you will receive the following error message:          'SessionClosedException'
