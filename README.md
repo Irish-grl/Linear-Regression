@@ -4,7 +4,7 @@ ________________________________________________________________________________
 1.	Click on the following link to interact with the multivariable linear regression model's code and user interface that's hosted on Binder.org:
      https://mybinder.org/v2/gh/Irish-grl/Linear-Regression/main?labpath=Retirement%20Savings%20Interest%20Generator%20-%20LM%20(7).ipynb
      
-2.   Click on the button called 'Run' and select 'Run All Cells'. It will take several minutes for the full program to load and the user interface to generate a browser      window with the web application. 
+2.   Click on the button called 'Run' and select 'Run All Cells'. It will take some time for the full program to load and the user interface to generate a browser      window with the web application. Please be patient.
 
 3.   Enter an 'age' as a number and then press the 'submit' button.
 
