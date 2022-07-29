@@ -4,4 +4,4 @@ matplotlib==3.5.1
 seaborn==0.11.2
 pywebio==1.6.2
 sklearn==0.0
-wand==0.6.8
+wand==0.6.2
